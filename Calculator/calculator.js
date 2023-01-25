@@ -7,7 +7,7 @@ while(ulangi){
         jumlah = number1 + number2;
     }else if(operator == '-'){
         jumlah = number1 - number2;
-    }else if(operator == ''){
+    }else if(operator == 'x'){
         jumlah = number1 * number2;
     }else if(operator == '/'){
         jumlah = number1 / number2;
